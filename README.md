@@ -1,5 +1,3 @@
-# End-to-End-Source-Code-Analysis-
-=======
 # End-to-End Source Code Analysis Tool
 
 ## Project Description
@@ -70,4 +68,4 @@ Open your browser and go to [http://127.0.0.1:8080](http://127.0.0.1:8080)
 **GitHub:** [ankit-kumarz](https://github.com/ankit-kumarz)  
 **Project Repository:** [End-to-End-Source-Code-Analysis-Tool](https://github.com/ankit-kumarz/End-to-End-Source-Code-Analysis-Tool)
 
->>>>>>> b48f6f7 (commit all file)
+
